@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="1"
+  Comment=""
+  Type="WebHelp"
+  Destinations=""
+  GlossaryTermConversion="marked"
+  MasterPage="/Content/Resources/MasterPages/master page.flmsp"
+  SearchFilterSet="/Project/Advanced/Search Filter Set.flsfs"
+  Skin="/Project/Skins/Default.flskn"
+  MasterToc="/Project/TOCs/Master.fltoc"
+  BrowseSequence="/Project/Advanced/Browse Sequence.flbrs"
+  DefaultUrl="/Content/Topic.htm"
+  InsertMOTW="true"></CatapultTarget>

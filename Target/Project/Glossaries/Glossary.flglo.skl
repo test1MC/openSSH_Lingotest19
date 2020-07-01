@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultGlossary>
+    <GlossaryEntry>
+        <Terms>
+            <Term>砻קยด1ตว融</Term>
+        </Terms>
+        <Definition>砻קยด2ตว融</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry>
+        <Terms>
+            <Term>砻קยด3ตว融</Term>
+        </Terms>
+        <Definition Link="">砻קยด4ตว融</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry>
+        <Terms>
+            <Term>砻קยด5ตว融</Term>
+        </Terms>
+        <Definition>砻קยด6ตว融</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry>
+        <Terms>
+            <Term>砻קยด7ตว融</Term>
+        </Terms>
+        <Definition Link="/Content/3.htm">
+        </Definition>
+    </GlossaryEntry>
+    <GlossaryEntry>
+        <Terms>
+            <Term>砻קยด8ตว融</Term>
+        </Terms>
+        <Definition Link="">砻קยด9ตว融</Definition>
+    </GlossaryEntry>
+</CatapultGlossary>

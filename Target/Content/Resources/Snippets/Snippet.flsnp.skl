@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xml:space="preserve">
+    <head>
+        <link href="../Stylesheets/Styles.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <p>砻קยด1ตว融</p>
+        <p>砻קยด2ตว融</p>
+        <p>&#160;</p>
+        <p style="text-align: center;">
+            <img src="../Images/Dock.jpg" style="width: 226px;height: 168px;" />
+        </p>
+    </body>
+</html>

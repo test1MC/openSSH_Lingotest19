@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xml:space="preserve">
+    <head>
+    </head>
+    <body>
+        <MadCap:pageHeader class="OddPage">
+            <table style="width: 100%;border-bottom-style: solid;border-bottom-width: 2px;border-bottom-color: #000000;">
+                <col style="width: 33%;" />
+                <col style="width: 33%;" />
+                <col style="width: 33%;" />
+                <tbody>
+                    <tr>
+                        <th>text <i style="color: #ffa07a;">in here for the master</i> page</th>
+                        <td><i>italic</i>
+                        </td>
+                        <td>
+                            <p style="text-align: right;"><b>Chapter 1: Introduction</b>
+                            </p>
+                        </td>
+                    </tr>
+                </tbody>
+            </table> 
+    </MadCap:pageHeader>
+        <MadCap:pageHeader class="EvenPage">
+            <table style="width: 100%;caption-side: top;border-bottom-style: solid;border-bottom-width: 2px;border-bottom-color: #000000;">
+                <col style="width: 33%;" />
+                <col style="width: 33%;" />
+                <col style="width: 33%;" />
+                <tbody>
+                    <tr>
+                        <td style="text-align: left;"><b>MadCap Flare</b>
+                        </td>
+                        <td>text right here in the middle</td>
+                        <td><u>underlined text in here</u>
+                        </td>
+                    </tr>
+                </tbody>
+            </table> 
+    </MadCap:pageHeader>
+        <MadCap:pageHeader class="FirstPage">
+            <table style="width: 100%;border-top-style: solid;border-top-width: 3px;border-top-color: #000000;">
+                <col style="width: 33%;" />
+                <col style="width: 33%;" />
+                <col style="width: 33%;" />
+                <tbody>
+                    <tr>
+                        <td style="text-align: left;"><b>Chapter 1</b>
+                        </td>
+                        <td>text inside the MP middle cell</td>
+                        <td>last cell next to chapter 1</td>
+                    </tr>
+                </tbody>
+            </table>
+        </MadCap:pageHeader>
+        <p> </p>
+        <MadCap:bodyProxy />
+        <p> </p>
+        <MadCap:pageFooter class="OddPage">
+            <table style="width: 100%;">
+                <col style="width: 33%;" />
+                <col style="width: 33%;" />
+                <col style="width: 33%;" />
+                <tbody>
+                    <tr>
+                        <td>first cell to the left of page number 1</td>
+                        <td>middle cell text here</td>
+                        <td class="" style="text-align: right;">
+                            <MadCap:variable name="System.PageNumber" /> </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <MadCap:toggler targets="deer picture">toggler</MadCap:toggler>
+                        </td>
+                        <td> </td>
+                        <td> </td>
+                    </tr>
+                </tbody>
+            </table>
+        </MadCap:pageFooter>
+        <MadCap:pageFooter class="EvenPage">
+            <table style="width: 100%;">
+                <col style="width: 33%;" />
+                <col style="width: 33%;" />
+                <col style="width: 33%;" />
+                <tbody>
+                    <tr>
+                        <td style="text-align: left;"> <MadCap:variable name="System.PageNumber" /></td>
+                        <td><span style="color: #ffebcd;"><span style="color: #9acd32;">colour here</span></span><span style="color: #9acd32;">  </span>
+                        </td>
+                        <td>
+                            <img src="../Images/Oryx Antelope.jpg" style="width: 162px;height: 119px;" title="screen tip for picture inside a master page" alt="alternate text for a picture inside the master page" MadCap:targetName="deer picture" />
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </MadCap:pageFooter>
+    </body>
+</html>

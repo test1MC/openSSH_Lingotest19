@@ -1,0 +1,223 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xliff
+  version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+  MadCap:translationStatus="untranslated">
+  <file
+    xml:space="preserve"
+    original="Topic.htm"
+    source-language="en"
+    MadCap:file-filter=""
+    datatype="xhtml"
+    target-language="ar">
+    <header>
+      <skl><external-file
+          href="Topic.htm.skl" /></skl>
+      <phase-group>
+        <phase
+          phase-name="translation"
+          process-name="translation" />
+        <phase
+          phase-name="completion"
+          process-name="translation" />
+        <phase
+          phase-name="approval"
+          process-name="review" />
+        <phase
+          phase-name="pretrans"
+          process-name="pre-translation" />
+      </phase-group>
+      <count-group
+        name="MadCap Statistics">
+        <count
+          count-type="total"
+          unit="segment">17</count>
+        <count
+          count-type="x-subflow"
+          unit="trans-unit">10</count>
+      </count-group>
+      <tool
+        tool-id="MadCap Lingo 11 r2 (Lingo release)"
+        tool-name="Lingo"
+        tool-version="11.1.7479.15313"
+        tool-company="MadCap Software" />
+    </header>
+    <body><trans-unit
+        id="1"
+        restype="x-xhtml-area-title"
+        phase-name="pretrans"><source>screen tip for image map ALT</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="area">screen tip for image map ALT</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="2"
+        restype="x-xhtml-area-alt"
+        phase-name="pretrans"><source>screen tip for image map ALT</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="area">screen tip for image map ALT</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="3"
+        restype="x-xhtml-img-title"
+        phase-name="pretrans"><source>screen tip here not for image map</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="img">screen tip here not for image map</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="4"
+        restype="x-xhtml-img-alt"
+        phase-name="pretrans"><source>alt text here not for image map</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="img">alt text here not for image map</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="5"
+        restype="x-xhtml-a-title"
+        phase-name="pretrans"><source>Screen Tip for hyperlink</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="a">Screen Tip for hyperlink</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="6"
+        restype="x-xhtml-a-alt"
+        phase-name="pretrans"><source>Screen Tip for hyperlink</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="a">Screen Tip for hyperlink</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="7"
+        restype="x-xhtml-madcap:xref-title"
+        phase-name="pretrans"><source>Xref screen tip</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="MadCap:xref">Xref screen tip</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="8"
+        restype="x-xhtml-madcap:xref-alt"
+        phase-name="pretrans"><source>Xref screen tip</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="MadCap:xref">Xref screen tip</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="9"
+        restype="x-xhtml-a-title"
+        phase-name="pretrans"><source>TopicPopUpScreenTip</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="a">TopicPopUpScreenTip</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="10"
+        restype="x-xhtml-a-alt"
+        phase-name="pretrans"><source>TopicPopUpScreenTip</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="a">TopicPopUpScreenTip</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="11"
+        restype="x-xml-title"
+        phase-name="pretrans"><source>no number topic title</source><seg-source><mrk
+            mtype="seg"
+            mid="1">no number topic title</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="12"
+        restype="x-xml-h1"
+        phase-name="pretrans"><source>Topic Title</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Topic Title</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="13"
+        restype="x-xml-p"
+        phase-name="pretrans"><source>Delete this text and replace it with your own content.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Delete this text and replace it with your own content.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="14"
+        restype="x-xml-p"
+        phase-name="pretrans"><source>Hyperlink</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Hyperlink</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="15"
+        restype="x-xml-p"
+        phase-name="pretrans"><source> This is a test to bookmark to.</source><seg-source><mrk
+            mtype="protected"
+            mid="1"> </mrk><mrk
+            mtype="seg"
+            mid="2">This is a test to bookmark to.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="protected"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="16"
+        restype="x-xml-p"
+        phase-name="pretrans"><source>TopicPopUp</source><seg-source><mrk
+            mtype="seg"
+            mid="1">TopicPopUp</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit></body>
+  </file>
+</xliff>

@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xml:space="preserve">
+    <head>
+    </head>
+    <body>
+        <MadCap:pageHeader class="OddPage">
+            <table style="width: 100%;border-bottom-style: solid;border-bottom-width: 2px;border-bottom-color: #000000;">
+                <col style="width: 33%;" />
+                <col style="width: 33%;" />
+                <col style="width: 33%;" />
+                <tbody>
+                    <tr>
+                        <th>砻קยด3ตว融</th>
+                        <td><i>砻קยด4ตว融</i></td>
+                        <td>
+                            <p style="text-align: right;"><b>砻קยด5ตว融</b></p>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>&#160;
+    </MadCap:pageHeader>
+        <MadCap:pageHeader class="EvenPage">
+            <table style="width: 100%;caption-side: top;border-bottom-style: solid;border-bottom-width: 2px;border-bottom-color: #000000;">
+                <col style="width: 33%;" />
+                <col style="width: 33%;" />
+                <col style="width: 33%;" />
+                <tbody>
+                    <tr>
+                        <td style="text-align: left;"><b>砻קยด6ตว融</b></td>
+                        <td>砻קยด7ตว融</td>
+                        <td><u>砻קยด8ตว融</u></td>
+                    </tr>
+                </tbody>
+            </table>&#160;
+    </MadCap:pageHeader>
+        <MadCap:pageHeader class="FirstPage">
+            <table style="width: 100%;border-top-style: solid;border-top-width: 3px;border-top-color: #000000;">
+                <col style="width: 33%;" />
+                <col style="width: 33%;" />
+                <col style="width: 33%;" />
+                <tbody>
+                    <tr>
+                        <td style="text-align: left;"><b>砻קยด9ตว融</b></td>
+                        <td>砻קยด10ตว融</td>
+                        <td>砻קยด11ตว融</td>
+                    </tr>
+                </tbody>
+            </table>
+        </MadCap:pageHeader>
+        <p>&#160;</p>
+        <MadCap:bodyProxy />
+        <p>&#160;</p>
+        <MadCap:pageFooter class="OddPage">
+            <table style="width: 100%;">
+                <col style="width: 33%;" />
+                <col style="width: 33%;" />
+                <col style="width: 33%;" />
+                <tbody>
+                    <tr>
+                        <td>砻קยด12ตว融</td>
+                        <td>砻קยด13ตว融</td>
+                        <td class="" style="text-align: right;">
+                            <MadCap:variable name="System.PageNumber" />&#160;</td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <MadCap:toggler targets="deer picture">砻קยด14ตว融</MadCap:toggler>
+                        </td>
+                        <td>&#160;</td>
+                        <td>&#160;</td>
+                    </tr>
+                </tbody>
+            </table>
+        </MadCap:pageFooter>
+        <MadCap:pageFooter class="EvenPage">
+            <table style="width: 100%;">
+                <col style="width: 33%;" />
+                <col style="width: 33%;" />
+                <col style="width: 33%;" />
+                <tbody>
+                    <tr>
+                        <td style="text-align: left;">&#160;<MadCap:variable name="System.PageNumber" /></td>
+                        <td><span style="color: #ffebcd;"><span style="color: #9acd32;">砻קยด15ตว融</span></span><span style="color: #9acd32;">  </span></td>
+                        <td>
+                            <img src="../Images/Oryx Antelope.jpg" style="width: 162px;height: 119px;" title="砻קยด1ตว融" alt="砻קยด2ตว融" MadCap:targetName="deer picture" />
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </MadCap:pageFooter>
+    </body>
+</html>

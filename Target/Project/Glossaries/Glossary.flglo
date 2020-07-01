@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultGlossary>
+  <GlossaryEntry>
+    <Terms>
+      <Term>My Term</Term>
+    </Terms>
+    <Definition>My definition</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry>
+    <Terms>
+      <Term>Glossary Term</Term>
+    </Terms>
+    <Definition
+      Link="">This is a glossary term link in here.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry>
+    <Terms>
+      <Term>glossary term link in here</Term>
+    </Terms>
+    <Definition>This is a test for the glossary term link.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry>
+    <Terms>
+      <Term>new term is going here again</Term>
+    </Terms>
+    <Definition
+      Link="/Content/3.htm"></Definition>
+  </GlossaryEntry>
+  <GlossaryEntry>
+    <Terms>
+      <Term>last term</Term>
+    </Terms>
+    <Definition
+      Link="">this is the definition for the last term</Definition>
+  </GlossaryEntry>
+</CatapultGlossary>

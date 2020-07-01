@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" class="" xml:space="preserve">
+    <head><title>砻קยด11ตว融</title>
+        <link href="Resources/Stylesheets/Styles.css" rel="stylesheet" type="text/css" />
+    </head>
+    <map id="map1">
+        <area shape="rectangle" coords="14,15,358,71" />
+        <area shape="circle" coords="133,311,24" title="砻קยด1ตว融" alt="砻קยด2ตว融" href="#top" />
+    </map>
+    <body>
+        <h1><a name="top"></a>砻קยด12ตว融</h1>
+        <p>砻קยด13ตว融</p>
+        <p>&#160;</p>
+        <p>
+            <img src="Resources/Images/Tree.jpg" style="width: 368px;height: 275px;" usemap="#map1" title="砻קยด3ตว融" alt="砻קยด4ตว融" />
+        </p>
+        <p>&#160;</p>
+        <hr />
+        <p><a href="1.htm" title="砻קยด5ตว融" alt="砻קยด6ตว融">砻קยด14ตว融</a></p>
+        <p><a name="bookmark"></a>砻קยด15ตว融</p>
+        <p>&#160;</p>
+        <p>
+            <MadCap:xref href="#bookmark" target="" title="砻קยด7ตว融" alt="砻קยด8ตว融">See " This is a test to bookmark to."</MadCap:xref>
+        </p>
+        <p>&#160;</p>
+        <p><a href="2.htm" target="_popup" title="砻קยด9ตว融" alt="砻קยด10ตว融" class="Popup">砻קยด16ตว融</a></p>
+        <p>&#160;</p>
+        <p>&#160;</p>
+    </body>
+</html>
